@@ -1,2 +1,2 @@
-# Kafka
-Projects done to learn Kafka
+# Kafka Streams
+Projects done to learn Kafka Streams
